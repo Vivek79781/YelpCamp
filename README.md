@@ -1,5 +1,5 @@
 # YelpCamp
-This project was undertaken by Vivek Jaiswal, Shivansh Shukla and Likhith Reddy Morreddigari for the course Software Engineering Laboratory (CS29202).
+This project was undertaken by Vivek Jaiswal as Self-Project.
 ## Objective
 YelpCamp is an user interactive website which describes different campgrounds from different places and an authorised user can add a campground, edit or    delete it. It also allows an authorised user to add a reviews, edit or delete it.
 
